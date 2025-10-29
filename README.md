@@ -59,3 +59,11 @@ groqai.py       - Test AI call
 Groqai/         - Saved AI responses
 
 requirements.txt
+
+---
+
+Author: Prins Ambaliya
+
+Email: prinsambaliya66@gmail.com
+
+Project: AI-Powered Lead Generation & Outreach Workflow
