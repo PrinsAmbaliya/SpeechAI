@@ -52,11 +52,11 @@ Say:
 
 ## Files
 
-main.py         - Main logic
+main.py     - Main logic
 
-groqai.py       - Test AI call
+groqai.py   - Test AI call
 
-Groqai/         - Saved AI responses
+Groqai/     - Saved AI responses
 
 requirements.txt
 
