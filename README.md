@@ -62,8 +62,10 @@ requirements.txt
 
 ---
 
-Author: Prins Ambaliya
+Author
 
-Email: prinsambaliya66@gmail.com
+Prins Ambaliya
 
-Project: AI-Powered Lead Generation & Outreach Workflow
+GitHub: PrinsAmbaliya
+
+LinkedIn: https://www.linkedin.com/in/prins-ambaliya-bb7546367
