@@ -1,1 +1,10 @@
+OpenAI response for prompt: Python AI using AI write a poem of samosa of five lines 
+*******************************************
 
+**Samosa Serenade**
+
+Golden skin crackles in the pan,  
+Spiced whispers of cumin in the air—  
+Each bite a little folded fan,  
+A crunchy promise of warmth to share.  
+In every fold, a savory dream.
