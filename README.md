@@ -53,6 +53,9 @@ Say:
 ## Files
 
 main.py         - Main logic
+
 groqai.py       - Test AI call
+
 Groqai/         - Saved AI responses
+
 requirements.txt
