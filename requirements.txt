@@ -1,0 +1,4 @@
+groq
+speechrecognition
+pyttsx3
+pyaudio
